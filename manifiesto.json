@@ -8,13 +8,13 @@
  "/2024-incursions-us-european-bases/": {
   "code": 200,
   "fichero": "2024-incursions-us-european-bases/index.html",
-  "sha256": "bbd4cc5c56dedf07091d743ed061d012c7277d576e335b7e2c2326c4657b063b",
+  "sha256": "ec28a388f09fd6f986af546d94b56d31fa2b2402bb2983549875e042bf421d09",
   "tipo": "text/html"
  },
  "/222-declassified-ufo-files-reveal-hide-unanswered-2026/": {
   "code": 200,
   "fichero": "222-declassified-ufo-files-reveal-hide-unanswered-2026/index.html",
-  "sha256": "bff5580145d3fceb7423746c8a1acbfd104b89d0ae7fa84c151b83d0292b7b76",
+  "sha256": "c13a4c1a00d298d235e1ae03c1a57fd6557ba79b2bc11ea1320b864b55954e0c",
   "tipo": "text/html"
  },
  "/71a89fb8cf46217a239d3a6f0fe3f14f.txt": {
@@ -50,7 +50,7 @@
  "/americas-secret-psychic-spy-program-declassified-documents-reveal-project-stargates-extraordinary-history/": {
   "code": 200,
   "fichero": "americas-secret-psychic-spy-program-declassified-documents-reveal-project-stargates-extraordinary-history/index.html",
-  "sha256": "e319b5b4f153745f3dd20b7db348199776d7afa24543e54ea842087e363ed707",
+  "sha256": "6266565ddabf974bbe8a37f5ef3d796325f5ee1a22fb5577f4b9e68c923ff928",
   "tipo": "text/html"
  },
  "/area-51-2013-cia-declassification-what-it-said/": {
@@ -272,7 +272,7 @@
  "/canary-islands-1976-ufo-sighting/": {
   "code": 200,
   "fichero": "canary-islands-1976-ufo-sighting/index.html",
-  "sha256": "7c437a68db4f3cec5db5c93fb82177f850cc1c356369045d43c43be13e5f00d4",
+  "sha256": "c87984f47d50655a039cc6cb6870b3632f42300357a3d8db58387796c9af54fb",
   "tipo": "text/html"
  },
  "/cash-landrum-1980-ufo-federal-lawsuit/": {
@@ -284,7 +284,7 @@
  "/catalina-island-1949-1955-unresolved-uap-files/": {
   "code": 200,
   "fichero": "catalina-island-1949-1955-unresolved-uap-files/index.html",
-  "sha256": "d74ea26fe66617c5db2c802d9193260743cbb2ff2c22d4eb1f4758b2c547f370",
+  "sha256": "1c744689e822c027cc827cd8f828880ad73e089fe28b93c080e3bba51c02eb19",
   "tipo": "text/html"
  },
  "/chiles-military-declassified-uap-files-cefaas-groundbreaking-investigation-of-unexplained-aerial-phenomena/": {
@@ -333,12 +333,6 @@
   "code": 200,
   "fichero": "content/images/2026/05/frankie-lopez-qYkoz2lKKww-unsplash.webp",
   "sha256": "5505156db6ea62a4e452893b5ff4778b3a8e989c865b4b09c5284705cf95c5b7",
-  "tipo": "image/webp"
- },
- "/content/images/2026/05/heidi-kaden-L_U4jhwZ6hY-unsplash.webp": {
-  "code": 200,
-  "fichero": "content/images/2026/05/heidi-kaden-L_U4jhwZ6hY-unsplash.webp",
-  "sha256": "f47f499b3bbbd61c81929af779963eb9a5971360c427491a4bcb67bd9e490177",
   "tipo": "image/webp"
  },
  "/content/images/2026/05/mario-la-pergola-h2aorZ3AHVQ-unsplash.webp": {
@@ -1173,6 +1167,114 @@
   "code": 200,
   "fichero": "content/images/size/w1140/2026/10/yellow-sea-star-pr104-forensic-analysis-six-pointed-uap.webp",
   "sha256": "e9ef7bcf21606df6efffae0d1f5919fcb5d7a4259d34a2bab4991a8b1ee3f9ea",
+  "tipo": "image/webp"
+ },
+ "/content/images/size/w1200/2026/05/heidi-kaden-L_U4jhwZ6hY-unsplash.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w1200/2026/05/heidi-kaden-L_U4jhwZ6hY-unsplash.webp",
+  "sha256": "dc364cbd2738c1da0fe22b2fe0b1dc8634dfa3e23c2d42702f08c1a873168c1b",
+  "tipo": "image/webp"
+ },
+ "/content/images/size/w1200/2026/05/mario-la-pergola-h2aorZ3AHVQ-unsplash.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w1200/2026/05/mario-la-pergola-h2aorZ3AHVQ-unsplash.webp",
+  "sha256": "e1bc0e8c160eeb2f7d63042e5953e99023411039fb8ff21e6c5bd2073f91578d",
+  "tipo": "image/webp"
+ },
+ "/content/images/size/w1200/2026/06/gabor-szuts-3zPbi_qfGp0-unsplash.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w1200/2026/06/gabor-szuts-3zPbi_qfGp0-unsplash.webp",
+  "sha256": "7c5926a46d4167bc7b6e544e4166a96a464507971e06db46faf54731f65cbaac",
+  "tipo": "image/webp"
+ },
+ "/content/images/size/w1200/2026/06/rebecca-johnsen-7pMLAXSbDZM-unsplash.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w1200/2026/06/rebecca-johnsen-7pMLAXSbDZM-unsplash.webp",
+  "sha256": "25419f0153ed5c56143a5e78c85d2e98abdb060a24b8a6de4ffeffaf131275a6",
+  "tipo": "image/webp"
+ },
+ "/content/images/size/w1200/2026/06/tommy-shen-uidhzU0hi7A-unsplash.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w1200/2026/06/tommy-shen-uidhzU0hi7A-unsplash.webp",
+  "sha256": "5ea38605d64b1cf2a94c5056a7a6efecd7897b8bbe0d4688a39ee2d71d3a4108",
+  "tipo": "image/webp"
+ },
+ "/content/images/size/w1200/2026/06/tyler-mower-qOKjhv_p-oE-unsplash.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w1200/2026/06/tyler-mower-qOKjhv_p-oE-unsplash.webp",
+  "sha256": "14d49d9dfce21215b1c58745eeb02d5a1627481323ca129574179f0775fdf7cf",
+  "tipo": "image/webp"
+ },
+ "/content/images/size/w1200/2026/10/222-declassified-ufo-files-reveal-hide-unanswered-2026.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w1200/2026/10/222-declassified-ufo-files-reveal-hide-unanswered-2026.webp",
+  "sha256": "2f6ae27ff9dfa84b59407465275089c30a8f7b216077983a4b70eabce745f095",
+  "tipo": "image/webp"
+ },
+ "/content/images/size/w1200/2026/10/americas-secret-psychic-spy-program-declassified-documents-reveal-.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w1200/2026/10/americas-secret-psychic-spy-program-declassified-documents-reveal-.webp",
+  "sha256": "a51456248ae162d6358ced9cd0257ddc5ef00c93a32b57de39c6928a0dfa2bbf",
+  "tipo": "image/webp"
+ },
+ "/content/images/size/w1200/2026/10/en-2024-incursions-us-european-bases-infografia.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w1200/2026/10/en-2024-incursions-us-european-bases-infografia.webp",
+  "sha256": "12d0260b2cfac4cfadd592a7dbc74cdb698829a28cf45d56ece375fbe1ae5509",
+  "tipo": "image/webp"
+ },
+ "/content/images/size/w1200/2026/10/en-catalina-island-1949-1955-four-unresolved-files-and-what-the-infografia-1.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w1200/2026/10/en-catalina-island-1949-1955-four-unresolved-files-and-what-the-infografia-1.webp",
+  "sha256": "f1dbc888ce883dccb6b9544301c91ea9b9fb9ae1a505742291381215950e8a6b",
+  "tipo": "image/webp"
+ },
+ "/content/images/size/w1200/2026/10/en-fragments-1962-1964-the-word-they-deleted-from-nasas-public--infografia.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w1200/2026/10/en-fragments-1962-1964-the-word-they-deleted-from-nasas-public--infografia.webp",
+  "sha256": "70ce5c660adcab06a71439a56dc339b30124acdbe2d5f440ea2dd04fadfe7396",
+  "tipo": "image/webp"
+ },
+ "/content/images/size/w1200/2026/10/en-june-2026-triangle-aaro-fbi-two-files-infografia-1.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w1200/2026/10/en-june-2026-triangle-aaro-fbi-two-files-infografia-1.webp",
+  "sha256": "c4854393d6f668ee3737a3be9a1f45ea3e763d254926164010203eab6511e680",
+  "tipo": "image/webp"
+ },
+ "/content/images/size/w1200/2026/10/en-pursue-files-nuclear-sites-declassified-infografia.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w1200/2026/10/en-pursue-files-nuclear-sites-declassified-infografia.webp",
+  "sha256": "16d11a2588d7590849171c438373a3612c050c917d5a1db1456ff22a4117f27e",
+  "tipo": "image/webp"
+ },
+ "/content/images/size/w1200/2026/10/en-utah-ranch-2010-baass-dia-report-pursue-release-7-infografia.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w1200/2026/10/en-utah-ranch-2010-baass-dia-report-pursue-release-7-infografia.webp",
+  "sha256": "3f5e4279ed82a16cfcfc63e5622641971e1dab52f333a729ff88fbce81501563",
+  "tipo": "image/webp"
+ },
+ "/content/images/size/w1200/2026/10/manises-1979-spain-ufo-night-sighting-valencia.jpg": {
+  "code": 200,
+  "fichero": "content/images/size/w1200/2026/10/manises-1979-spain-ufo-night-sighting-valencia.jpg",
+  "sha256": "930a3a39e2b49df1e99377ce164acd483d2ec26bad2663b070093c05d39194de",
+  "tipo": "image/jpeg"
+ },
+ "/content/images/size/w1200/2026/10/pascagoula-1973-hidden-tape-hickson-parker-infographic.png": {
+  "code": 200,
+  "fichero": "content/images/size/w1200/2026/10/pascagoula-1973-hidden-tape-hickson-parker-infographic.png",
+  "sha256": "0db4e41d7c5341be5a6c7d3cd386b7e9fa9cd98b34a2824aeab0a21fde6c9a9e",
+  "tipo": "image/png"
+ },
+ "/content/images/size/w1200/2026/10/pentagon-uap-second-release-may-2026.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w1200/2026/10/pentagon-uap-second-release-may-2026.webp",
+  "sha256": "5812e260e785b8502688401e4c07f2ccb7cfb76e82e1cdaed99570fa66b7c816",
+  "tipo": "image/webp"
+ },
+ "/content/images/size/w1200/2026/10/uss-nimitz-tic-tac-uap-flir1-2004-infographic.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w1200/2026/10/uss-nimitz-tic-tac-uap-flir1-2004-infographic.webp",
+  "sha256": "410eb7605018be45486e92419e01770505eedcab63af1fd50f44e9b212cc6d19",
   "tipo": "image/webp"
  },
  "/content/images/size/w150/2026/05/avatar.jpg": {
@@ -2478,7 +2580,7 @@
  "/grusch-capitol-june-9-2026-uap-disclosure/": {
   "code": 200,
   "fichero": "grusch-capitol-june-9-2026-uap-disclosure/index.html",
-  "sha256": "de7a74e4e08458177cb8779a1b623753e6ef85e3261080e317a7c95cecfbedce",
+  "sha256": "f16704c49d517a65e24ec6304e13fc7a4c790f92a5ecdcfa6eb2822360ea47df",
   "tipo": "text/html"
  },
  "/hundreds-watched-in-broad-daylight-the-westall-ufo-mystery-that-australia-still-cant-explain/": {
@@ -2490,7 +2592,7 @@
  "/immaculate-constellation-secret-uap-program-congress/": {
   "code": 200,
   "fichero": "immaculate-constellation-secret-uap-program-congress/index.html",
-  "sha256": "6f31c1348fec0d573a70424b20b3d171d0a087d5dff4ee8e0b0b16eb679ec947",
+  "sha256": "dcf383e4b3c1febc957801bc7834605b8ab8497da7592a7dd89522903b9604dd",
   "tipo": "text/html"
  },
  "/jal-1628-alaska-1986-ufo-radar-encounter/": {
@@ -2502,7 +2604,7 @@
  "/june-2026-triangle-aaro-fbi-two-files/": {
   "code": 200,
   "fichero": "june-2026-triangle-aaro-fbi-two-files/index.html",
-  "sha256": "82f22869fe57a3649805d12ed600d686464a5cdf2d462b929babb415e4da7e20",
+  "sha256": "750081fe0ecdd8522a8ad2583d02ce902b339fbf4bb472e8c07610e393e9da2a",
   "tipo": "text/html"
  },
  "/kecksburg-1965-acorn-ufo-missing-nasa-files/": {
@@ -2532,13 +2634,13 @@
  "/malmstrom-1967-ufo-nuclear-missiles-incident/": {
   "code": 200,
   "fichero": "malmstrom-1967-ufo-nuclear-missiles-incident/index.html",
-  "sha256": "a53052b4008e5250bc7d05acd7fad27c9bed5b5d76d8be184f2acb3a9984d965",
+  "sha256": "5b55139892a147631704010efe0b088bc738a046d8fbfba2bb96420ca9af861d",
   "tipo": "text/html"
  },
  "/manises-1979-spain-ufo-incident/": {
   "code": 200,
   "fichero": "manises-1979-spain-ufo-incident/index.html",
-  "sha256": "7c658bda7e4abae0f0d61068fbfba8bee8163163788168f98e068bf1eadb3896",
+  "sha256": "b1f8edb59bad7f2aa31c9ad60118c87aafd3bfb4e8c3c8d41996acd6e9db27f8",
   "tipo": "text/html"
  },
  "/missing-scientists-theory-youtube-white-house-2026/": {
@@ -2550,7 +2652,7 @@
  "/nasa-space-vehicle-fragments-1963-deleted-word/": {
   "code": 200,
   "fichero": "nasa-space-vehicle-fragments-1963-deleted-word/index.html",
-  "sha256": "56091609f8113bce15ffb78b8788c587978fe3e24b0720f9dca2a0da8f91de60",
+  "sha256": "49c389209af15b641e0863d2f1637ca9772d13450ba23983dbb65996f92fe763",
   "tipo": "text/html"
  },
  "/page/2/": {
@@ -2592,7 +2694,7 @@
  "/pascagoula-1973-hidden-tape-hickson-parker/": {
   "code": 200,
   "fichero": "pascagoula-1973-hidden-tape-hickson-parker/index.html",
-  "sha256": "9f6b2996b4c1ed522f7c0864460bd4e846665a72078a781a1ecbff17cd325008",
+  "sha256": "3ee995f0738af7930c783e98ef1dfb5bcd19a174e0a67efd3afc652f09e3850d",
   "tipo": "text/html"
  },
  "/pentagon-second-uap-declassification-may-2026-apollo-12-sandia/": {
@@ -2602,7 +2704,7 @@
  "/pentagon-uap-second-release-may-2026/": {
   "code": 200,
   "fichero": "pentagon-uap-second-release-may-2026/index.html",
-  "sha256": "5377094a3c200d7691034b99d34fb8c82d9e7c3c48c4e942903e562f92546c05",
+  "sha256": "b9c985662b2586890372c1af8edaaeb49acb1f9c82cca46431fd039c5763486a",
   "tipo": "text/html"
  },
  "/phoenix-lights-1997/": {
@@ -2638,13 +2740,13 @@
  "/pursue-files-nuclear-sites-2026-declassified/": {
   "code": 200,
   "fichero": "pursue-files-nuclear-sites-2026-declassified/index.html",
-  "sha256": "424e06678ec612ecd4d535c6ca60fa5034ce2c1e6db467a050d8e13b81f6bb21",
+  "sha256": "bba86e6682670d465fbacadf4f57c06868b73f19ff749c9902ff0e7c21863609",
   "tipo": "text/html"
  },
  "/pursue-release-3-cia-confession-apollo-uap-files-2026/": {
   "code": 200,
   "fichero": "pursue-release-3-cia-confession-apollo-uap-files-2026/index.html",
-  "sha256": "65ff33dc50620e68193c2f7e2c98ac576c05292ee2a009c1c5c27d14777ebfeb",
+  "sha256": "1bf39bb6feb76c68a432ba60b0b960a1169b786cd82653571abd83a6c29c5cd7",
   "tipo": "text/html"
  },
  "/pursue-release-4-pantex-los-alamos-apollo-17-uap-files/": {
@@ -2950,7 +3052,7 @@
  "/travis-walton-abduction-1975-evidence-witnesses/": {
   "code": 200,
   "fichero": "travis-walton-abduction-1975-evidence-witnesses/index.html",
-  "sha256": "7df546f7545e2d71633bb07eadb5631e47349ccb051527c5a91aff899ca55439",
+  "sha256": "278a0b59277cfdd072fb4e7187f6dc1872d5c95b7f716c23d1d46768adf9f3ac",
   "tipo": "text/html"
  },
  "/uap-nuclear-bases-six-decades-incursions/": {
@@ -2968,7 +3070,7 @@
  "/uss-nimitz-2004-tic-tac-uap-encounter/": {
   "code": 200,
   "fichero": "uss-nimitz-2004-tic-tac-uap-encounter/index.html",
-  "sha256": "a6c921ab69774ae7e85d9c0cd48d66cb46745215c7a666a8b32f7ce19a58d9f0",
+  "sha256": "1548df980dfffac0bc5c8ff0ef87e67feb48f4184e7705547e276d00628113a2",
   "tipo": "text/html"
  },
  "/uss-russell-2019-pyramid-uap-channel-islands/": {
@@ -2980,7 +3082,7 @@
  "/utah-ranch-2010-aawsap-baass-field-report/": {
   "code": 200,
   "fichero": "utah-ranch-2010-aawsap-baass-field-report/index.html",
-  "sha256": "4a4c7d0027a10a40e1068e3e199efb13f9e01722060fd96ff9b5336697ff4b02",
+  "sha256": "e705aca21118a3c60e9b2199a52e7dad09ed12541cba264d9ef0480222122f16",
   "tipo": "text/html"
  },
  "/vallecas-1992-police-report-never-says-paranormal/": {
