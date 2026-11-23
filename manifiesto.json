@@ -2,13 +2,19 @@
  "/": {
   "code": 200,
   "fichero": "index.html",
-  "sha256": "821cbe98148e496433b91e4a42963d6b70cfe17ae8fac54bea1f3145d7bc3635",
+  "sha256": "04f6dd8f10ce515bbb21527ad9075f3cd084caa1a28fcc78eeaaacd9afb6c6df",
+  "tipo": "text/html"
+ },
+ "/2024-incursions-us-european-bases/": {
+  "code": 200,
+  "fichero": "2024-incursions-us-european-bases/index.html",
+  "sha256": "bbd4cc5c56dedf07091d743ed061d012c7277d576e335b7e2c2326c4657b063b",
   "tipo": "text/html"
  },
  "/222-declassified-ufo-files-reveal-hide-unanswered-2026/": {
   "code": 200,
   "fichero": "222-declassified-ufo-files-reveal-hide-unanswered-2026/index.html",
-  "sha256": "447738b1bc4d34feae618073c1a287009dd1e82a8b4df7ed3f8479b9012689bd",
+  "sha256": "bff5580145d3fceb7423746c8a1acbfd104b89d0ae7fa84c151b83d0292b7b76",
   "tipo": "text/html"
  },
  "/71a89fb8cf46217a239d3a6f0fe3f14f.txt": {
@@ -20,19 +26,19 @@
  "/aaro-grusch-contradiction-2024-historical-report/": {
   "code": 200,
   "fichero": "aaro-grusch-contradiction-2024-historical-report/index.html",
-  "sha256": "52b9f7192534b5e0e10387356a16ba2d6115dca3e89c5ae95c73547c2bb90639",
+  "sha256": "0b57ee5612f45b52ff259a5f6b7869499ec9eb76f501f7530a414404dfff83b3",
   "tipo": "text/html"
  },
  "/aaro-ufo-investigation-eight-decades-us-government-research/": {
   "code": 200,
   "fichero": "aaro-ufo-investigation-eight-decades-us-government-research/index.html",
-  "sha256": "28078a5c52f83a0355645aaca11e1f74563d43d1d7599329600d0699d53b2d8e",
+  "sha256": "d391576bf9ce74f8bfaaa2f60a029fcd3c38c96d42bb648b911514e1964b9b9a",
   "tipo": "text/html"
  },
  "/aawsap-37-dird-papers-full-list-contract-file/": {
   "code": 200,
   "fichero": "aawsap-37-dird-papers-full-list-contract-file/index.html",
-  "sha256": "2885c52777847cd041284283b7aed96b2b341ac142a7039d2e96e56847610e83",
+  "sha256": "46073c136d4c529de6ee7e2f9aa30054718ac7851f4b1951d511cd7ed82771d6",
   "tipo": "text/html"
  },
  "/about/": {
@@ -44,19 +50,19 @@
  "/americas-secret-psychic-spy-program-declassified-documents-reveal-project-stargates-extraordinary-history/": {
   "code": 200,
   "fichero": "americas-secret-psychic-spy-program-declassified-documents-reveal-project-stargates-extraordinary-history/index.html",
-  "sha256": "0c012c0c4a170f8e3baa3595d7856e3b8098938d8bab921067366f3dea6dffc3",
+  "sha256": "e319b5b4f153745f3dd20b7db348199776d7afa24543e54ea842087e363ed707",
   "tipo": "text/html"
  },
  "/area-51-2013-cia-declassification-what-it-said/": {
   "code": 200,
   "fichero": "area-51-2013-cia-declassification-what-it-said/index.html",
-  "sha256": "00a0dff32f185c09215ee73f7a2d5045ade12625aea0087d36bb3074215e4f97",
+  "sha256": "16f7d9b3c447dec222a67e77b069f2434572c719ee97a2d6a674d472d039961b",
   "tipo": "text/html"
  },
  "/ariel-school-1994-zimbabwe-ufo-encounter/": {
   "code": 200,
   "fichero": "ariel-school-1994-zimbabwe-ufo-encounter/index.html",
-  "sha256": "8eda98e514c75be20d64f51836eba43603270f472d62b8119c6cdfaac1b452c6",
+  "sha256": "813aa7a9ee1d2ae678b20338bca7e7e3d7bf22c12ac3ee3f8738cd22b2148f8b",
   "tipo": "text/html"
  },
  "/assets/built/main.min.js": {
@@ -200,103 +206,103 @@
  "/author/chemavx/": {
   "code": 200,
   "fichero": "author/chemavx/index.html",
-  "sha256": "699930a982825ab83c47364001ff33cde78624b76c012be164336d2f5c887c16",
+  "sha256": "e6b8c34c0c2f79d7b761c8fd64f4581f66ed88c217e597e35c4da8d0a7c2dce5",
   "tipo": "text/html"
  },
  "/author/chemavx/page/2/": {
   "code": 200,
   "fichero": "author/chemavx/page/2/index.html",
-  "sha256": "6bce576ab9e581a862df550b2c678f5db14f28a4469cc9b02549a74bad922954",
+  "sha256": "c59f02c46f675b86cdfb237f71d755281d62780b197d17b73b4195db73f19b64",
   "tipo": "text/html"
  },
  "/author/chemavx/page/3/": {
   "code": 200,
   "fichero": "author/chemavx/page/3/index.html",
-  "sha256": "eb227ea41b499c2736846bbc2b3772ea558974842fe5f9cdd66fa59c9c647c62",
+  "sha256": "26e9551c9e0f03daab5c129678025c32fd8540879ba8fba1ebea894d69b3a54e",
   "tipo": "text/html"
  },
  "/author/chemavx/page/4/": {
   "code": 200,
   "fichero": "author/chemavx/page/4/index.html",
-  "sha256": "281442c26cf5134253e57d9d91e42ca10447ee01143b49bd2a6d431618005e02",
+  "sha256": "44ceb92f029cf3fc5bdf97463d97a79ae8087071d28feab6cebfcbfac0e1728a",
   "tipo": "text/html"
  },
  "/author/chemavx/page/5/": {
   "code": 200,
   "fichero": "author/chemavx/page/5/index.html",
-  "sha256": "7d6dac5c1173246cdffd778187d6d5857ab65805174dabcf0b1a376a8b4974db",
+  "sha256": "0ee8de0f08355d5f2b7e2eae842c86b339ef7ddddd766cae99c641f5bd2b79ec",
   "tipo": "text/html"
  },
  "/author/chemavx/page/6/": {
   "code": 200,
   "fichero": "author/chemavx/page/6/index.html",
-  "sha256": "126944b05b31ff6cc997294540a072de188d99d88c2d9409bd3522b441f6f7e6",
+  "sha256": "d8c12755fe3a082f45123b0a47a464a1aec9a239a9349147bab6f8c1be42c2ca",
   "tipo": "text/html"
  },
  "/author/chemavx/page/7/": {
   "code": 200,
   "fichero": "author/chemavx/page/7/index.html",
-  "sha256": "487a42683eaad50d5b359df37912b6af2f41733acc401d94faa19cf1dc8b507c",
+  "sha256": "1ea5701e7be89804a06f354da055dc4e049d8afb6b9de1a1d9b72408ee123227",
   "tipo": "text/html"
  },
  "/battle-of-los-angeles-1942-ufo-attack/": {
   "code": 200,
   "fichero": "battle-of-los-angeles-1942-ufo-attack/index.html",
-  "sha256": "20700a86eca3f9e2b0c3caf2d17afdd1adc9b64496880f556572038d4661d1c2",
+  "sha256": "7c4e74c5a7c13a62d4d527112e982073f67e6ec3e114cd153ef74979eaa5ea04",
   "tipo": "text/html"
  },
  "/belgium-1989-1990-nato-fighters-ufo-wave/": {
   "code": 200,
   "fichero": "belgium-1989-1990-nato-fighters-ufo-wave/index.html",
-  "sha256": "d19100fe4b9d44f05e402f6d519d9ed51ce3abcb496186b4cdeb25de91e5b700",
+  "sha256": "92e3e588ff2913fb7d85db751f98c447f71e3456e4a73f64c5e9b0cb83d66ca5",
   "tipo": "text/html"
  },
  "/betty-barney-hill-1961-abduction/": {
   "code": 200,
   "fichero": "betty-barney-hill-1961-abduction/index.html",
-  "sha256": "a746a0866c80c42abfc596dec49f8e9739fd42080c22fd745f37c48618e04d17",
+  "sha256": "d78d60eb67e0da46c74c350fed7467b9a1fe8fab03279dd127fd4ee05d100363",
   "tipo": "text/html"
  },
  "/campeche-2004-the-eleven-ufos-only-infrared-could-see/": {
   "code": 200,
   "fichero": "campeche-2004-the-eleven-ufos-only-infrared-could-see/index.html",
-  "sha256": "10a8399f44ff0f5ab5f35809de0aeeb9bc25deb36d247be5bed24edd8edcb907",
+  "sha256": "997dddc88c0921626e9253b55f66f4cd1e46e338f29c3590fe1c85e98ab21c3b",
   "tipo": "text/html"
  },
  "/canary-islands-1976-ufo-sighting/": {
   "code": 200,
   "fichero": "canary-islands-1976-ufo-sighting/index.html",
-  "sha256": "c87984f47d50655a039cc6cb6870b3632f42300357a3d8db58387796c9af54fb",
+  "sha256": "7c437a68db4f3cec5db5c93fb82177f850cc1c356369045d43c43be13e5f00d4",
   "tipo": "text/html"
  },
  "/cash-landrum-1980-ufo-federal-lawsuit/": {
   "code": 200,
   "fichero": "cash-landrum-1980-ufo-federal-lawsuit/index.html",
-  "sha256": "c64d0fcc78db2f6f6ca6e8cf7105095c3d8a9774189c3db876e6f646e3a026e7",
+  "sha256": "712212830f000a2b63f534a214c68dc573f3c79a728555fa7648aea0b8f78679",
   "tipo": "text/html"
  },
  "/catalina-island-1949-1955-unresolved-uap-files/": {
   "code": 200,
   "fichero": "catalina-island-1949-1955-unresolved-uap-files/index.html",
-  "sha256": "5472802eb82e9c04402f1854c146007d23290de505ea113318a6ae9b32a27a3d",
+  "sha256": "d74ea26fe66617c5db2c802d9193260743cbb2ff2c22d4eb1f4758b2c547f370",
   "tipo": "text/html"
  },
  "/chiles-military-declassified-uap-files-cefaas-groundbreaking-investigation-of-unexplained-aerial-phenomena/": {
   "code": 200,
   "fichero": "chiles-military-declassified-uap-files-cefaas-groundbreaking-investigation-of-unexplained-aerial-phenomena/index.html",
-  "sha256": "70cb08eff7ae340d5153d40e45c056c444d44fab37750fed7c9d8454711f8db0",
+  "sha256": "7e579b9524267063623f253fc85a1f2163ec5deeaffe3f56b311c3c9353b5073",
   "tipo": "text/html"
  },
  "/chiles-whitted-1948-eastern-airlines-ufo-encounter/": {
   "code": 200,
   "fichero": "chiles-whitted-1948-eastern-airlines-ufo-encounter/index.html",
-  "sha256": "f477c558a62d24b16e9494773916bfdb3370ff012f595f884ad6222d5db2b48f",
+  "sha256": "b325cc8a44ca85d5177ffa49cb6337ddf60446d9c15cdf2f218a9525131b3f4d",
   "tipo": "text/html"
  },
  "/colares-1977-brazil-air-force-ufo-investigation/": {
   "code": 200,
   "fichero": "colares-1977-brazil-air-force-ufo-investigation/index.html",
-  "sha256": "3fd892e198199573604a9b0d7142c94f830689c0f1bb8055890879b2149143c7",
+  "sha256": "bdd58ca9269d3fbdfbaacf91b4f4ae047f104e4c4faaf22b830b8effb34a6184",
   "tipo": "text/html"
  },
  "/complete-guide-uap-cases/": {
@@ -327,6 +333,12 @@
   "code": 200,
   "fichero": "content/images/2026/05/frankie-lopez-qYkoz2lKKww-unsplash.webp",
   "sha256": "5505156db6ea62a4e452893b5ff4778b3a8e989c865b4b09c5284705cf95c5b7",
+  "tipo": "image/webp"
+ },
+ "/content/images/2026/05/heidi-kaden-L_U4jhwZ6hY-unsplash.webp": {
+  "code": 200,
+  "fichero": "content/images/2026/05/heidi-kaden-L_U4jhwZ6hY-unsplash.webp",
+  "sha256": "f47f499b3bbbd61c81929af779963eb9a5971360c427491a4bcb67bd9e490177",
   "tipo": "image/webp"
  },
  "/content/images/2026/05/mario-la-pergola-h2aorZ3AHVQ-unsplash.webp": {
@@ -501,6 +513,12 @@
   "code": 200,
   "fichero": "content/images/2026/10/colares-1977-brazil-air-force-ufo-investigation.webp",
   "sha256": "fed0def726b8f6b8bc41cb4c07684cc4e7b8669c6a10c238018f562973681d7e",
+  "tipo": "image/webp"
+ },
+ "/content/images/2026/10/en-2024-incursions-us-european-bases-infografia.webp": {
+  "code": 200,
+  "fichero": "content/images/2026/10/en-2024-incursions-us-european-bases-infografia.webp",
+  "sha256": "bf0b6b4d399c61e4c792b887d390c2e2ec13f2c34d5bb0ac2f49196d1fb3e571",
   "tipo": "image/webp"
  },
  "/content/images/2026/10/en-catalina-island-1949-1955-four-unresolved-files-and-what-the-infografia-1.webp": {
@@ -929,6 +947,12 @@
   "sha256": "92f45571571b6ee486088ce9764411e555761b593feb4efc8c855fef927fcc0b",
   "tipo": "image/webp"
  },
+ "/content/images/size/w1140/2026/10/en-2024-incursions-us-european-bases-infografia.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w1140/2026/10/en-2024-incursions-us-european-bases-infografia.webp",
+  "sha256": "80e8f4878a560c2b618b192ea12a1e7ff37d00656e80b1f3a935938b8b3bd9e2",
+  "tipo": "image/webp"
+ },
  "/content/images/size/w1140/2026/10/en-catalina-island-1949-1955-four-unresolved-files-and-what-the-infografia-1.webp": {
   "code": 200,
   "fichero": "content/images/size/w1140/2026/10/en-catalina-island-1949-1955-four-unresolved-files-and-what-the-infografia-1.webp",
@@ -1151,108 +1175,6 @@
   "sha256": "e9ef7bcf21606df6efffae0d1f5919fcb5d7a4259d34a2bab4991a8b1ee3f9ea",
   "tipo": "image/webp"
  },
- "/content/images/size/w1200/2026/05/heidi-kaden-L_U4jhwZ6hY-unsplash.webp": {
-  "code": 200,
-  "fichero": "content/images/size/w1200/2026/05/heidi-kaden-L_U4jhwZ6hY-unsplash.webp",
-  "sha256": "dc364cbd2738c1da0fe22b2fe0b1dc8634dfa3e23c2d42702f08c1a873168c1b",
-  "tipo": "image/webp"
- },
- "/content/images/size/w1200/2026/05/mario-la-pergola-h2aorZ3AHVQ-unsplash.webp": {
-  "code": 200,
-  "fichero": "content/images/size/w1200/2026/05/mario-la-pergola-h2aorZ3AHVQ-unsplash.webp",
-  "sha256": "e1bc0e8c160eeb2f7d63042e5953e99023411039fb8ff21e6c5bd2073f91578d",
-  "tipo": "image/webp"
- },
- "/content/images/size/w1200/2026/06/gabor-szuts-3zPbi_qfGp0-unsplash.webp": {
-  "code": 200,
-  "fichero": "content/images/size/w1200/2026/06/gabor-szuts-3zPbi_qfGp0-unsplash.webp",
-  "sha256": "7c5926a46d4167bc7b6e544e4166a96a464507971e06db46faf54731f65cbaac",
-  "tipo": "image/webp"
- },
- "/content/images/size/w1200/2026/06/rebecca-johnsen-7pMLAXSbDZM-unsplash.webp": {
-  "code": 200,
-  "fichero": "content/images/size/w1200/2026/06/rebecca-johnsen-7pMLAXSbDZM-unsplash.webp",
-  "sha256": "25419f0153ed5c56143a5e78c85d2e98abdb060a24b8a6de4ffeffaf131275a6",
-  "tipo": "image/webp"
- },
- "/content/images/size/w1200/2026/06/tommy-shen-uidhzU0hi7A-unsplash.webp": {
-  "code": 200,
-  "fichero": "content/images/size/w1200/2026/06/tommy-shen-uidhzU0hi7A-unsplash.webp",
-  "sha256": "5ea38605d64b1cf2a94c5056a7a6efecd7897b8bbe0d4688a39ee2d71d3a4108",
-  "tipo": "image/webp"
- },
- "/content/images/size/w1200/2026/06/tyler-mower-qOKjhv_p-oE-unsplash.webp": {
-  "code": 200,
-  "fichero": "content/images/size/w1200/2026/06/tyler-mower-qOKjhv_p-oE-unsplash.webp",
-  "sha256": "14d49d9dfce21215b1c58745eeb02d5a1627481323ca129574179f0775fdf7cf",
-  "tipo": "image/webp"
- },
- "/content/images/size/w1200/2026/10/222-declassified-ufo-files-reveal-hide-unanswered-2026.webp": {
-  "code": 200,
-  "fichero": "content/images/size/w1200/2026/10/222-declassified-ufo-files-reveal-hide-unanswered-2026.webp",
-  "sha256": "2f6ae27ff9dfa84b59407465275089c30a8f7b216077983a4b70eabce745f095",
-  "tipo": "image/webp"
- },
- "/content/images/size/w1200/2026/10/americas-secret-psychic-spy-program-declassified-documents-reveal-.webp": {
-  "code": 200,
-  "fichero": "content/images/size/w1200/2026/10/americas-secret-psychic-spy-program-declassified-documents-reveal-.webp",
-  "sha256": "a51456248ae162d6358ced9cd0257ddc5ef00c93a32b57de39c6928a0dfa2bbf",
-  "tipo": "image/webp"
- },
- "/content/images/size/w1200/2026/10/en-catalina-island-1949-1955-four-unresolved-files-and-what-the-infografia-1.webp": {
-  "code": 200,
-  "fichero": "content/images/size/w1200/2026/10/en-catalina-island-1949-1955-four-unresolved-files-and-what-the-infografia-1.webp",
-  "sha256": "f1dbc888ce883dccb6b9544301c91ea9b9fb9ae1a505742291381215950e8a6b",
-  "tipo": "image/webp"
- },
- "/content/images/size/w1200/2026/10/en-fragments-1962-1964-the-word-they-deleted-from-nasas-public--infografia.webp": {
-  "code": 200,
-  "fichero": "content/images/size/w1200/2026/10/en-fragments-1962-1964-the-word-they-deleted-from-nasas-public--infografia.webp",
-  "sha256": "70ce5c660adcab06a71439a56dc339b30124acdbe2d5f440ea2dd04fadfe7396",
-  "tipo": "image/webp"
- },
- "/content/images/size/w1200/2026/10/en-june-2026-triangle-aaro-fbi-two-files-infografia-1.webp": {
-  "code": 200,
-  "fichero": "content/images/size/w1200/2026/10/en-june-2026-triangle-aaro-fbi-two-files-infografia-1.webp",
-  "sha256": "c4854393d6f668ee3737a3be9a1f45ea3e763d254926164010203eab6511e680",
-  "tipo": "image/webp"
- },
- "/content/images/size/w1200/2026/10/en-pursue-files-nuclear-sites-declassified-infografia.webp": {
-  "code": 200,
-  "fichero": "content/images/size/w1200/2026/10/en-pursue-files-nuclear-sites-declassified-infografia.webp",
-  "sha256": "16d11a2588d7590849171c438373a3612c050c917d5a1db1456ff22a4117f27e",
-  "tipo": "image/webp"
- },
- "/content/images/size/w1200/2026/10/en-utah-ranch-2010-baass-dia-report-pursue-release-7-infografia.webp": {
-  "code": 200,
-  "fichero": "content/images/size/w1200/2026/10/en-utah-ranch-2010-baass-dia-report-pursue-release-7-infografia.webp",
-  "sha256": "3f5e4279ed82a16cfcfc63e5622641971e1dab52f333a729ff88fbce81501563",
-  "tipo": "image/webp"
- },
- "/content/images/size/w1200/2026/10/manises-1979-spain-ufo-night-sighting-valencia.jpg": {
-  "code": 200,
-  "fichero": "content/images/size/w1200/2026/10/manises-1979-spain-ufo-night-sighting-valencia.jpg",
-  "sha256": "930a3a39e2b49df1e99377ce164acd483d2ec26bad2663b070093c05d39194de",
-  "tipo": "image/jpeg"
- },
- "/content/images/size/w1200/2026/10/pascagoula-1973-hidden-tape-hickson-parker-infographic.png": {
-  "code": 200,
-  "fichero": "content/images/size/w1200/2026/10/pascagoula-1973-hidden-tape-hickson-parker-infographic.png",
-  "sha256": "0db4e41d7c5341be5a6c7d3cd386b7e9fa9cd98b34a2824aeab0a21fde6c9a9e",
-  "tipo": "image/png"
- },
- "/content/images/size/w1200/2026/10/pentagon-uap-second-release-may-2026.webp": {
-  "code": 200,
-  "fichero": "content/images/size/w1200/2026/10/pentagon-uap-second-release-may-2026.webp",
-  "sha256": "5812e260e785b8502688401e4c07f2ccb7cfb76e82e1cdaed99570fa66b7c816",
-  "tipo": "image/webp"
- },
- "/content/images/size/w1200/2026/10/uss-nimitz-tic-tac-uap-flir1-2004-infographic.webp": {
-  "code": 200,
-  "fichero": "content/images/size/w1200/2026/10/uss-nimitz-tic-tac-uap-flir1-2004-infographic.webp",
-  "sha256": "410eb7605018be45486e92419e01770505eedcab63af1fd50f44e9b212cc6d19",
-  "tipo": "image/webp"
- },
  "/content/images/size/w150/2026/05/avatar.jpg": {
   "code": 200,
   "fichero": "content/images/size/w150/2026/05/avatar.jpg",
@@ -1461,6 +1383,12 @@
   "code": 200,
   "fichero": "content/images/size/w400/2026/10/colares-1977-brazil-air-force-ufo-investigation.webp",
   "sha256": "f99c247bf8a66ae5ca0056bc5d2119bedafee81c96928e842b707e8a718c3f15",
+  "tipo": "image/webp"
+ },
+ "/content/images/size/w400/2026/10/en-2024-incursions-us-european-bases-infografia.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w400/2026/10/en-2024-incursions-us-european-bases-infografia.webp",
+  "sha256": "a5bbff613f2a753606255c7aedb69377306f10ea059d2ea42dd07faa5eed27fa",
   "tipo": "image/webp"
  },
  "/content/images/size/w400/2026/10/en-catalina-island-1949-1955-four-unresolved-files-and-what-the-infografia-1.webp": {
@@ -1877,6 +1805,12 @@
   "sha256": "1368212487cc2039031c3a206e68a302e277b7c564c17312ab11e91ce3ceee10",
   "tipo": "image/webp"
  },
+ "/content/images/size/w750/2026/10/en-2024-incursions-us-european-bases-infografia.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w750/2026/10/en-2024-incursions-us-european-bases-infografia.webp",
+  "sha256": "90012f131abe6d1fc73eb510f65e7bda94ff2012ffc044ecc08b0857052d4f5d",
+  "tipo": "image/webp"
+ },
  "/content/images/size/w750/2026/10/en-catalina-island-1949-1955-four-unresolved-files-and-what-the-infografia-1.webp": {
   "code": 200,
   "fichero": "content/images/size/w750/2026/10/en-catalina-island-1949-1955-four-unresolved-files-and-what-the-infografia-1.webp",
@@ -2291,6 +2225,12 @@
   "sha256": "4ee8714586dd1752a61d45c452d2b4b547a03ee14b147422adb4e121bcec9f9b",
   "tipo": "image/webp"
  },
+ "/content/images/size/w960/2026/10/en-2024-incursions-us-european-bases-infografia.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w960/2026/10/en-2024-incursions-us-european-bases-infografia.webp",
+  "sha256": "31bf5836725b517fa3676a8d54b73b96aa55f9cc6a5529de0b41d2bb60e30768",
+  "tipo": "image/webp"
+ },
  "/content/images/size/w960/2026/10/en-catalina-island-1949-1955-four-unresolved-files-and-what-the-infografia-1.webp": {
   "code": 200,
   "fichero": "content/images/size/w960/2026/10/en-catalina-island-1949-1955-four-unresolved-files-and-what-the-infografia-1.webp",
@@ -2516,7 +2456,7 @@
  "/david-grusch-capitol-2026-whistleblower-uap-disclosure/": {
   "code": 200,
   "fichero": "david-grusch-capitol-2026-whistleblower-uap-disclosure/index.html",
-  "sha256": "1aca14f2c361dd8e922684b177ebb6971897eaff8ebf2612aaeda92abef89d82",
+  "sha256": "64fbb78ac7ecbf067357f1713e62975ba53faa5ad261cc0bf272dac0d3900495",
   "tipo": "text/html"
  },
  "/favicon.ico": {
@@ -2526,133 +2466,133 @@
  "/gary-mckinnon-nasa-intrusion-what-it-proves/": {
   "code": 200,
   "fichero": "gary-mckinnon-nasa-intrusion-what-it-proves/index.html",
-  "sha256": "031064436f7f76550b5d0de05df9c18543c3aab828e1a1e8ebda2f631f89c50c",
+  "sha256": "f11ea7557065fdb6532be15c8dc1c167a04318192233ff641e5936e162355261",
   "tipo": "text/html"
  },
  "/gimbal-gofast-pentagon-analysis-uap-videos/": {
   "code": 200,
   "fichero": "gimbal-gofast-pentagon-analysis-uap-videos/index.html",
-  "sha256": "72ad55b02b4a4efad4133fa8219c98c34afe6bdd642b8c3bd1058235cc46651c",
+  "sha256": "c74113d69a2a4967b9b109174571fe71aa20d5886918a15ca59b918e60ef0600",
   "tipo": "text/html"
  },
  "/grusch-capitol-june-9-2026-uap-disclosure/": {
   "code": 200,
   "fichero": "grusch-capitol-june-9-2026-uap-disclosure/index.html",
-  "sha256": "654fae45a0af30eaef2d5dbc1e343531ce32c3faf50d162dee7ced7c0396d426",
+  "sha256": "de7a74e4e08458177cb8779a1b623753e6ef85e3261080e317a7c95cecfbedce",
   "tipo": "text/html"
  },
  "/hundreds-watched-in-broad-daylight-the-westall-ufo-mystery-that-australia-still-cant-explain/": {
   "code": 200,
   "fichero": "hundreds-watched-in-broad-daylight-the-westall-ufo-mystery-that-australia-still-cant-explain/index.html",
-  "sha256": "53224ed96dc6a8fadeebd397e3e38eb398c8e07014e0ee379406f9c537d0c4fc",
+  "sha256": "d46293509431567ed09f580ab0b55fe0af2fc08c79a426a85a6cdecbb6eb1d59",
   "tipo": "text/html"
  },
  "/immaculate-constellation-secret-uap-program-congress/": {
   "code": 200,
   "fichero": "immaculate-constellation-secret-uap-program-congress/index.html",
-  "sha256": "93006ac5fad43e80ba261c336c77eb704d9022a32b6b7c66bddf1a8618f0ba22",
+  "sha256": "6f31c1348fec0d573a70424b20b3d171d0a087d5dff4ee8e0b0b16eb679ec947",
   "tipo": "text/html"
  },
  "/jal-1628-alaska-1986-ufo-radar-encounter/": {
   "code": 200,
   "fichero": "jal-1628-alaska-1986-ufo-radar-encounter/index.html",
-  "sha256": "49d09afcb364597c58e8bfba506746618a027f1e1d67da2054cf0c021b7a9c5d",
+  "sha256": "b3f2321bf25c684c0996b29e8dab71fae1de7f37679ed819140ee6b2b454ea8a",
   "tipo": "text/html"
  },
  "/june-2026-triangle-aaro-fbi-two-files/": {
   "code": 200,
   "fichero": "june-2026-triangle-aaro-fbi-two-files/index.html",
-  "sha256": "b302cb953a0639bafd638006c29e22585d8ee911e1f0b82d0298be71dae46ee9",
+  "sha256": "82f22869fe57a3649805d12ed600d686464a5cdf2d462b929babb415e4da7e20",
   "tipo": "text/html"
  },
  "/kecksburg-1965-acorn-ufo-missing-nasa-files/": {
   "code": 200,
   "fichero": "kecksburg-1965-acorn-ufo-missing-nasa-files/index.html",
-  "sha256": "4bb7fe712a65ab86ae1d6a79bac838fe674ef5aafbe44e7b82b14b9d0a04e236",
+  "sha256": "5b939ba1ab6baa874d0fe0f6eb25548617bef62149d84c67ee5ac9896cb2d939",
   "tipo": "text/html"
  },
  "/kenneth-arnold-1947-birth-of-flying-saucers/": {
   "code": 200,
   "fichero": "kenneth-arnold-1947-birth-of-flying-saucers/index.html",
-  "sha256": "b9adefd03abb178c03bf5889e508666775b48d462476810b09692db015b46d85",
+  "sha256": "cf624641e61f96485962b68c5656a5f410bd58309d2ec5e8a554528da6b282ed",
   "tipo": "text/html"
  },
  "/levelland-1957-texas-ufo-vehicle-interference/": {
   "code": 200,
   "fichero": "levelland-1957-texas-ufo-vehicle-interference/index.html",
-  "sha256": "01d386150c41235e51ff1af3535a8798b23c0289cb94964aae70a09a0024ccf0",
+  "sha256": "fdc2b38dcac0291429130527e56ab6ff38b490aca260ef852857180d714cab0b",
   "tipo": "text/html"
  },
  "/los-villares-1996-spain-contact-case-engraved-stones/": {
   "code": 200,
   "fichero": "los-villares-1996-spain-contact-case-engraved-stones/index.html",
-  "sha256": "61ecec2b99f240beb57fe713355f0cfad6b409f5ab4160c2d5975c57b19e61dc",
+  "sha256": "11896ba48218433129b2dcf5cd56b13eed9a63092663edadbac7d71baf7dec81",
   "tipo": "text/html"
  },
  "/malmstrom-1967-ufo-nuclear-missiles-incident/": {
   "code": 200,
   "fichero": "malmstrom-1967-ufo-nuclear-missiles-incident/index.html",
-  "sha256": "3035680bcb8c0fb2ed3f378bbed2836c40c66947c5746a4bca564de512f01c5c",
+  "sha256": "a53052b4008e5250bc7d05acd7fad27c9bed5b5d76d8be184f2acb3a9984d965",
   "tipo": "text/html"
  },
  "/manises-1979-spain-ufo-incident/": {
   "code": 200,
   "fichero": "manises-1979-spain-ufo-incident/index.html",
-  "sha256": "703f18c7e913e86ae8c1586e8525585edf1f232eb84a067b6d60021ec7277a91",
+  "sha256": "7c658bda7e4abae0f0d61068fbfba8bee8163163788168f98e068bf1eadb3896",
   "tipo": "text/html"
  },
  "/missing-scientists-theory-youtube-white-house-2026/": {
   "code": 200,
   "fichero": "missing-scientists-theory-youtube-white-house-2026/index.html",
-  "sha256": "c782bbf63709f7a8466208965ca056146c85138e2156e7f62a52433f2c8b4a9d",
+  "sha256": "a44d010defab607ed20765a6653bf238db2a0473b73f80ad948143c47e635216",
   "tipo": "text/html"
  },
  "/nasa-space-vehicle-fragments-1963-deleted-word/": {
   "code": 200,
   "fichero": "nasa-space-vehicle-fragments-1963-deleted-word/index.html",
-  "sha256": "d61cf8e25a05cea3f1df22f49583419ece980720b7e4773917edfbe2b54b566f",
+  "sha256": "56091609f8113bce15ffb78b8788c587978fe3e24b0720f9dca2a0da8f91de60",
   "tipo": "text/html"
  },
  "/page/2/": {
   "code": 200,
   "fichero": "page/2/index.html",
-  "sha256": "2e121ea930d1422471598aa6f4197769790f2b164ddb19a8642970a8ffe21549",
+  "sha256": "a1e15fe437ec62583c83a760566d9dc9fb89ad681fdf99d693c42df9fd2a4242",
   "tipo": "text/html"
  },
  "/page/3/": {
   "code": 200,
   "fichero": "page/3/index.html",
-  "sha256": "899d8d873863ce7f7a0d5de8b246c0d9f670a7dba6b090e43c5adee25c4a9c38",
+  "sha256": "e2c78cce404d2024f5b6ecc415e78b5b611029f9d38003149e4139edab5c5b77",
   "tipo": "text/html"
  },
  "/page/4/": {
   "code": 200,
   "fichero": "page/4/index.html",
-  "sha256": "b894e72c87b292ee7534c16176ad2c7d97f771749d2a9400c96c40219cc2c8d6",
+  "sha256": "64d2bb2e7e28b615a5b3e45f1cbc3357f1ebdb32e20b403e925607c4e1300775",
   "tipo": "text/html"
  },
  "/page/5/": {
   "code": 200,
   "fichero": "page/5/index.html",
-  "sha256": "264b98592b6c2e5a36888d314a6ab8de338051bc5ca96aa4421954a738a54ff1",
+  "sha256": "82e7e4371fa74d5270e5f813842d59fe7221e57268897b343715fe24a9246d61",
   "tipo": "text/html"
  },
  "/page/6/": {
   "code": 200,
   "fichero": "page/6/index.html",
-  "sha256": "5c4426679479ba4bb21bf90e4ee91cea3f38a8ccbeabbebfef12832bdc49f110",
+  "sha256": "1100e3e5d3fa8ed4056d3a6c1cff8fe47c858f0f74cfbcdae11375cb82269267",
   "tipo": "text/html"
  },
  "/page/7/": {
   "code": 200,
   "fichero": "page/7/index.html",
-  "sha256": "4d77d66afdf874f46ebe9a77994113edba9a54f4f9e69b57b37e6ab3b42daac0",
+  "sha256": "fa1595929e303425b2aad05110e33474256aa5f9b5ec83543ffe0b6fcc85ef27",
   "tipo": "text/html"
  },
  "/pascagoula-1973-hidden-tape-hickson-parker/": {
   "code": 200,
   "fichero": "pascagoula-1973-hidden-tape-hickson-parker/index.html",
-  "sha256": "c1079f56049bc2ddbc76f30cc833bc2ee14cf4b12c74f1d5eae65123116d1369",
+  "sha256": "9f6b2996b4c1ed522f7c0864460bd4e846665a72078a781a1ecbff17cd325008",
   "tipo": "text/html"
  },
  "/pentagon-second-uap-declassification-may-2026-apollo-12-sandia/": {
@@ -2662,19 +2602,19 @@
  "/pentagon-uap-second-release-may-2026/": {
   "code": 200,
   "fichero": "pentagon-uap-second-release-may-2026/index.html",
-  "sha256": "ff66bcab39e5cabb67bd0fe48e297cc9e2382ec7ad94b20e9bee783e5abede1c",
+  "sha256": "5377094a3c200d7691034b99d34fb8c82d9e7c3c48c4e942903e562f92546c05",
   "tipo": "text/html"
  },
  "/phoenix-lights-1997/": {
   "code": 200,
   "fichero": "phoenix-lights-1997/index.html",
-  "sha256": "1a6424560136272d8e084f451918057e57320a2180b181851d9f0b5563ec8e53",
+  "sha256": "7f4fd5760630112952443974097b8b28431fa184887efebb2c63199b6b71bd77",
   "tipo": "text/html"
  },
  "/project-blue-book-declassified-ufo-files/": {
   "code": 200,
   "fichero": "project-blue-book-declassified-ufo-files/index.html",
-  "sha256": "aedc87e69524fdda28fcd9abb4177b5172a1cdb0df0762d3bbde5ee75a8c02d0",
+  "sha256": "e712c3a63ac1d0e0425191ab441bb5387d82a12b9a472280ba81beddd51f0956",
   "tipo": "text/html"
  },
  "/public/cards.min.css": {
@@ -2698,43 +2638,43 @@
  "/pursue-files-nuclear-sites-2026-declassified/": {
   "code": 200,
   "fichero": "pursue-files-nuclear-sites-2026-declassified/index.html",
-  "sha256": "25ecd12f4cd6ceab6c28184bfba167d6d7effa6aed331394aa293d173ae11f03",
+  "sha256": "424e06678ec612ecd4d535c6ca60fa5034ce2c1e6db467a050d8e13b81f6bb21",
   "tipo": "text/html"
  },
  "/pursue-release-3-cia-confession-apollo-uap-files-2026/": {
   "code": 200,
   "fichero": "pursue-release-3-cia-confession-apollo-uap-files-2026/index.html",
-  "sha256": "5a4a1b26ab24f6be81ef4eb75d7490105e73775b1e4cc7c65039cbe23c18a196",
+  "sha256": "65ff33dc50620e68193c2f7e2c98ac576c05292ee2a009c1c5c27d14777ebfeb",
   "tipo": "text/html"
  },
  "/pursue-release-4-pantex-los-alamos-apollo-17-uap-files/": {
   "code": 200,
   "fichero": "pursue-release-4-pantex-los-alamos-apollo-17-uap-files/index.html",
-  "sha256": "e64d9df4c12157206805588824dd76ecf3c9a77e1293dee3ab45ee97ba3f6462",
+  "sha256": "64c0b4329ebd74f298bbe22d4f3b8df9163100c8697f3712bc2023a5eb732620",
   "tipo": "text/html"
  },
  "/pursue-release-5-2026-1948-memo-redacted-uap-videos/": {
   "code": 200,
   "fichero": "pursue-release-5-2026-1948-memo-redacted-uap-videos/index.html",
-  "sha256": "cb4134dde0c487a26a6fa4af9f59f0ba8eec59616184a1aa3ae7c6eccd97dee7",
+  "sha256": "0c7448d8e063a6d41df801594e18c97d59a2fe986ddce74ca4ec0655fd55364d",
   "tipo": "text/html"
  },
  "/pursue-release-6-aawsap-tremonton-2026/": {
   "code": 200,
   "fichero": "pursue-release-6-aawsap-tremonton-2026/index.html",
-  "sha256": "b906529638e7bc738ed81497dc40227586bba6efb19006603d5397ad79444545",
+  "sha256": "b4099bc6c0ba8fd0ac0d8bde6fecd5883a9831e47ce25bcacdf9e5e8d6d7d043",
   "tipo": "text/html"
  },
  "/pursue-release-6-video-forensics-15-clips-redaction/": {
   "code": 200,
   "fichero": "pursue-release-6-video-forensics-15-clips-redaction/index.html",
-  "sha256": "7457cdea64c83c4deda2711c975dd549246cbee869565a784e75991db463b9ef",
+  "sha256": "061a51e529095c15a1b32af2f81e31fc09a0f82b3fa9d9a31994d2e6495401f0",
   "tipo": "text/html"
  },
  "/rendlesham-forest-incident-1980/": {
   "code": 200,
   "fichero": "rendlesham-forest-incident-1980/index.html",
-  "sha256": "ccddbbc963ed4f83bf7705e410cf4dfa5f7221b2e5821dab065e97b35a73224a",
+  "sha256": "15a1cedaf11471844eb47287dcbf63a1d4bd3d6f08437cfbbf54e02d02ce65af",
   "tipo": "text/html"
  },
  "/robots.txt": {
@@ -2746,43 +2686,43 @@
  "/roswell-1947-ufo-incident/": {
   "code": 200,
   "fichero": "roswell-1947-ufo-incident/index.html",
-  "sha256": "966e99eaf79984425f28e79511c094172e83867df601355ba7c1110437d4d427",
+  "sha256": "5384a8e5ccc5a3ab123ddd52060b1576e2e4ea23cc603647c3f80ee654a361fd",
   "tipo": "text/html"
  },
  "/roswell-341-viral-crater-video-forensic-analysis/": {
   "code": 200,
   "fichero": "roswell-341-viral-crater-video-forensic-analysis/index.html",
-  "sha256": "eae68d440ed870d8ecdcf7b4be5207d0740d1f02e6700d547e95e96aadb25370",
+  "sha256": "5ca3edd4cd886ee9acfeaf790793c0a8d793d33892a642d33ea4ca0c9088dd1f",
   "tipo": "text/html"
  },
  "/rss/": {
   "code": 200,
   "fichero": "rss/index.html",
-  "sha256": "d9b986425c128c86070cb965be0f1484007d1fe7eb04b090bc4f7de55b0173bf",
+  "sha256": "7936aecffa6198e794464f99fffb02db773c87e82187959b918d41f839f0e4f1",
   "tipo": "application/rss+xml"
  },
  "/shag-harbour-1967-canada-government-documented-ufo-crash/": {
   "code": 200,
   "fichero": "shag-harbour-1967-canada-government-documented-ufo-crash/index.html",
-  "sha256": "d46eab5c854433fce7b7ab7de07e9289f0d6d3f7d24e74e5474d983fa2801259",
+  "sha256": "cc0f88188b91673b871057ed43bf150d2422d069b11fd2b89057404aa3c47055",
   "tipo": "text/html"
  },
  "/sitemap-authors.xml": {
   "code": 200,
   "fichero": "sitemap-authors.xml",
-  "sha256": "68ba5035704146cd6294019c84a1061f08e4257594e96ac3025f3f5e640c7983",
+  "sha256": "56d730c4c4d704310701571c0098b00f8e1d2f84a4fcd226df6745609545b608",
   "tipo": "text/xml"
  },
  "/sitemap-pages.xml": {
   "code": 200,
   "fichero": "sitemap-pages.xml",
-  "sha256": "8b3d42879903fb24211bbcf9bd340eb21d21720a3b4557ee11819640ecae7590",
+  "sha256": "361ffa6e95a375c5781cd7c849b877f09f909e885bb8309219145d5ba2b92ea9",
   "tipo": "text/xml"
  },
  "/sitemap-posts.xml": {
   "code": 200,
   "fichero": "sitemap-posts.xml",
-  "sha256": "80c8d5e579c8cd9fed7c37f855e18099a672802839443e24f9a1a244a5ca8fde",
+  "sha256": "f1ee249ded00875e538432ebcdbc74bf22f5ee8396077a3e0f48e4f477664f08",
   "tipo": "text/xml"
  },
  "/sitemap-tags.xml": {
@@ -2794,7 +2734,7 @@
  "/sitemap.xml": {
   "code": 200,
   "fichero": "sitemap.xml",
-  "sha256": "b31ba9c008fd0fac4637eca4d0befccdda442cd128e76b6797fd2e93611e32c5",
+  "sha256": "f69a903e9f4a186ba2fc24c4e8c49f7184a42bd1369057ee86f52764653ab83f",
   "tipo": "text/xml"
  },
  "/sitemap.xsl": {
@@ -2806,19 +2746,19 @@
  "/socorro-1964-zamora-ufo-landing/": {
   "code": 200,
   "fichero": "socorro-1964-zamora-ufo-landing/index.html",
-  "sha256": "0d9e7a5a07fe46cdb276b4643ddc93801e24b8751493747aa66b0e07d59c1bfa",
+  "sha256": "ce168865e17e2b9c2fc7d3ee513ff1ad82c791d057634dfa9992a8ecaa72338d",
   "tipo": "text/html"
  },
  "/spain-84-ufo-files-declassification/": {
   "code": 200,
   "fichero": "spain-84-ufo-files-declassification/index.html",
-  "sha256": "602e2dce3fbf77c06d470ca5772f3350072c3dcc4492fe55b7f5f9ce8ff3ed23",
+  "sha256": "0a79a5c54491f6bb4d8f51d0b66c72b919ac46508e45de1649751d80a575f9eb",
   "tipo": "text/html"
  },
  "/spielberg-disclosure-day-2026-uap-film/": {
   "code": 200,
   "fichero": "spielberg-disclosure-day-2026-uap-film/index.html",
-  "sha256": "a6a38aa4377879e0c1ae4af38698f384e1c7179d84930c23fcd9fc30ea1ed5a7",
+  "sha256": "7756b3aed0be2e1d15b00e0eb83c69a570241daffa8d21c79424563a0e1262ab",
   "tipo": "text/html"
  },
  "/tag/classic-cases/": {
@@ -2878,31 +2818,37 @@
  "/tag/investigation/": {
   "code": 200,
   "fichero": "tag/investigation/index.html",
-  "sha256": "136a32e66b17e64f7ee1f899bed2ca65dba6586cef117a1cf8604e2399e04f3b",
+  "sha256": "137a7d746e67d95072aba77cd21cd8e1f15e27f09c669b90f76f4a958837735e",
   "tipo": "text/html"
  },
  "/tag/investigation/page/2/": {
   "code": 200,
   "fichero": "tag/investigation/page/2/index.html",
-  "sha256": "e048aa860b8a5b9b6934c4f891f0a3a4aeea3937962aaca79d7f4bea9d5da42d",
+  "sha256": "46a081e90c2cb4729d26ec877281bd428bb3996bc4ea49f8d5e1b1618ace6bb6",
   "tipo": "text/html"
  },
  "/tag/investigation/page/3/": {
   "code": 200,
   "fichero": "tag/investigation/page/3/index.html",
-  "sha256": "3393b0365f8d710b99806fbcce40d7c327cca8fe481c34c6db341afb8e572052",
+  "sha256": "a678a64255ae3a6b008d2ae83b48747dce86b9cae287337420a1bf2c4ef842f8",
   "tipo": "text/html"
  },
  "/tag/investigation/page/4/": {
   "code": 200,
   "fichero": "tag/investigation/page/4/index.html",
-  "sha256": "203e546fd72a39956c0c4270fe94fe95f8b751ab4abb0982e780523b08c8273c",
+  "sha256": "54af30269298bf03dd5502e2b3d48654cf21077721e7a5927ee9fb388bfe114a",
   "tipo": "text/html"
  },
  "/tag/investigation/page/5/": {
   "code": 200,
   "fichero": "tag/investigation/page/5/index.html",
-  "sha256": "fd86477d5c9bf252529843dcd0a3309f29a3a9eb32d98887e8d744d0596bf76c",
+  "sha256": "8b77931c444fbd0354fb9c7d06622d25ea02b7a978eedb8d0481f46781442430",
+  "tipo": "text/html"
+ },
+ "/tag/investigation/page/6/": {
+  "code": 200,
+  "fichero": "tag/investigation/page/6/index.html",
+  "sha256": "f0341e769e04ccfb651e85579c817fb20f46f91f2408b72fa5929df63e635a03",
   "tipo": "text/html"
  },
  "/tag/latin-america/": {
@@ -2914,25 +2860,25 @@
  "/tag/military-cases/": {
   "code": 200,
   "fichero": "tag/military-cases/index.html",
-  "sha256": "c3e6ab18b0a5e5cd33a43fad6ac436c9638fa03cbf4e1bbed6a15f0b76d471b3",
+  "sha256": "c4166039093836ea735a096623dc16d2f4ece3632d48746b1fcd8adb5d82d162",
   "tipo": "text/html"
  },
  "/tag/military-cases/page/2/": {
   "code": 200,
   "fichero": "tag/military-cases/page/2/index.html",
-  "sha256": "cf73d69d7a1d9aa3346e123a47ab7b2daad5d956dcdc95aea27ad461af845b59",
+  "sha256": "02e653dec39e876ec6464099b9932cb06e8d76c4a178791df04f162c8daec0fc",
   "tipo": "text/html"
  },
  "/tag/military-cases/page/3/": {
   "code": 200,
   "fichero": "tag/military-cases/page/3/index.html",
-  "sha256": "ec16cf3a7181f4064999784d43d7b40b4a5276190381f22ac32abe87d3ac87a1",
+  "sha256": "b071e190ab0b6b2b18f7d5cd169f39a817caff5bfbfaf076576700600ac11921",
   "tipo": "text/html"
  },
  "/tag/military-cases/page/4/": {
   "code": 200,
   "fichero": "tag/military-cases/page/4/index.html",
-  "sha256": "09c9c50762dae34ae660a8ec07d2ab20bbaaa0b3a1754852612d5d01466e9653",
+  "sha256": "cf8d934b7f8f93d2f358d3b0a245c94376b0531c731e62213e9d6a9589a3fdd7",
   "tipo": "text/html"
  },
  "/tag/spain-cases/": {
@@ -2944,127 +2890,127 @@
  "/tag/uap/": {
   "code": 200,
   "fichero": "tag/uap/index.html",
-  "sha256": "b5248a2ce5c577d7f65a4efcbaa4abf89e41ef2f5566937653709f7965b5783a",
+  "sha256": "7401ab761750a4b33f8a38791ed71ee14a6ff50295a108f8fe0df7c20addebff",
   "tipo": "text/html"
  },
  "/tag/uap/page/2/": {
   "code": 200,
   "fichero": "tag/uap/page/2/index.html",
-  "sha256": "96511f78ec09db01544494d67b7211fa9a9d398beb30d082c0566034de9a5f0a",
+  "sha256": "a117c555997ae537122e514bca5cf0b210c6002c56375f2f534c2c63fd5557fb",
   "tipo": "text/html"
  },
  "/tag/uap/page/3/": {
   "code": 200,
   "fichero": "tag/uap/page/3/index.html",
-  "sha256": "2c62b198f8312e35a74acaadfc1366a9d21cc0343181c40069aa0817737c5a8f",
+  "sha256": "664b5bf5ce6bd212274d8881613d92e1cbae56125786bf7e58d8e3f0f44ae2a8",
   "tipo": "text/html"
  },
  "/tag/uap/page/4/": {
   "code": 200,
   "fichero": "tag/uap/page/4/index.html",
-  "sha256": "a42274b198b3418ceefb39c5e02c98a0b8054b6a3ca4c717892fc82e3c276f24",
+  "sha256": "8c0da97c4cee581221c931ac1489c542e1a9bbef8d36f2b1feda35638ab5c6d8",
   "tipo": "text/html"
  },
  "/talavera-1976-green-humanoid-ufo-encounter/": {
   "code": 200,
   "fichero": "talavera-1976-green-humanoid-ufo-encounter/index.html",
-  "sha256": "687478eaec8f5f08d7f207d3bdc39c9429936e97cfe1ff58406f2672bedd1aa3",
+  "sha256": "5f6259e9da050349446ad8b80844fdaf7d9e0e8f7b59bae7a56a2628f68c6e76",
   "tipo": "text/html"
  },
  "/tassili-najjer-cave-paintings-ancient-astronaut-theory/": {
   "code": 200,
   "fichero": "tassili-najjer-cave-paintings-ancient-astronaut-theory/index.html",
-  "sha256": "765819fc7ff4d183ec44bf17a7991d0efc8865512387fa23873302a7702088f2",
+  "sha256": "4558997e059d79413cc8f4171e197bb21b8e7a9689eb3c9c5869816035067749",
   "tipo": "text/html"
  },
  "/tehran-1976-iranian-f4-ufo-incident/": {
   "code": 200,
   "fichero": "tehran-1976-iranian-f4-ufo-incident/index.html",
-  "sha256": "d1ba388445952461429103a45dc897e6f4bb0766dd4900a755c63aedc9e1d30b",
+  "sha256": "9189c0d08e9ff79df459f1779c97e77685ee7220a9fc674653b7284dc9524eba",
   "tipo": "text/html"
  },
  "/the-mj-12-documents-a-forty-year-forgery-mystery/": {
   "code": 200,
   "fichero": "the-mj-12-documents-a-forty-year-forgery-mystery/index.html",
-  "sha256": "736711d294ffdb47e27bbfdf1a38cf7d0aae4733d97a4a09457b375300b1e6dc",
+  "sha256": "849a679760b0f53951ebc25c44e95b7c1129e8ce8ee6206ea22642981ea37c52",
   "tipo": "text/html"
  },
  "/the-wilson-davis-memo-inside-a-pentagon-officials-blocked-access-to-americas-ufo-reverse-engineering-program/": {
   "code": 200,
   "fichero": "the-wilson-davis-memo-inside-a-pentagon-officials-blocked-access-to-americas-ufo-reverse-engineering-program/index.html",
-  "sha256": "a7b8f8ca7926e75faa739a870892a988ce80f0e9ca6fd359d93e6c83fcedb31f",
+  "sha256": "dfef847c2a31cb3d5e04c6642ae4df0f7eab52b95ea948c04a2588995ce66fa6",
   "tipo": "text/html"
  },
  "/trans-en-provence-1981-gepan-ufo-landing-trace/": {
   "code": 200,
   "fichero": "trans-en-provence-1981-gepan-ufo-landing-trace/index.html",
-  "sha256": "a5f9649f23c06b1906543fc3658afc8f9bcc74706d510e954436dfdf2bd80dcb",
+  "sha256": "bd453081a7e6ca199e257f021e9967ed9a9cc25e8f83b1374cc5590d8dab75ea",
   "tipo": "text/html"
  },
  "/travis-walton-abduction-1975-evidence-witnesses/": {
   "code": 200,
   "fichero": "travis-walton-abduction-1975-evidence-witnesses/index.html",
-  "sha256": "c4258f2916b03a6239a43ee4093ce0c3cf30e15682d5b7d10e45bafac3d911d2",
+  "sha256": "7df546f7545e2d71633bb07eadb5631e47349ccb051527c5a91aff899ca55439",
   "tipo": "text/html"
  },
  "/uap-nuclear-bases-six-decades-incursions/": {
   "code": 200,
   "fichero": "uap-nuclear-bases-six-decades-incursions/index.html",
-  "sha256": "a89bcdf6a3fb761d8b5dd680674bdf18e5439246224ff19a788545bf785ca8d1",
+  "sha256": "f261f289b3f05e7d872f5cefcc313d599f636c6e14ce6a43f1c4f959a555bca8",
   "tipo": "text/html"
  },
  "/ummo-1966-spain-alien-letters-hoax/": {
   "code": 200,
   "fichero": "ummo-1966-spain-alien-letters-hoax/index.html",
-  "sha256": "461b7a626ee5407c27b5fb518519c2ca73814cdef690b254424ed94370699c96",
+  "sha256": "71983f42977c5c8ac7845c9a717670c4564b3ce20865950a4ae34ff799811b38",
   "tipo": "text/html"
  },
  "/uss-nimitz-2004-tic-tac-uap-encounter/": {
   "code": 200,
   "fichero": "uss-nimitz-2004-tic-tac-uap-encounter/index.html",
-  "sha256": "3c1d5d125dd988d7b567ccf072cf1ee45dff01789a1b4914c1cb9874d78546a5",
+  "sha256": "a6c921ab69774ae7e85d9c0cd48d66cb46745215c7a666a8b32f7ce19a58d9f0",
   "tipo": "text/html"
  },
  "/uss-russell-2019-pyramid-uap-channel-islands/": {
   "code": 200,
   "fichero": "uss-russell-2019-pyramid-uap-channel-islands/index.html",
-  "sha256": "f4c0412d956da5c9d4c04c70463209e2d92ef31a9a1338db43e2d6ac41413167",
+  "sha256": "60ede87ebdb85e52545c2e8841bc4e76d8900802a9c1eb02b6fdbee2854275e5",
   "tipo": "text/html"
  },
  "/utah-ranch-2010-aawsap-baass-field-report/": {
   "code": 200,
   "fichero": "utah-ranch-2010-aawsap-baass-field-report/index.html",
-  "sha256": "e5d5c3248a194d7b6094fd474152a7075c2cf61608ddb172fcffd9889e587642",
+  "sha256": "4a4c7d0027a10a40e1068e3e199efb13f9e01722060fd96ff9b5336697ff4b02",
   "tipo": "text/html"
  },
  "/vallecas-1992-police-report-never-says-paranormal/": {
   "code": 200,
   "fichero": "vallecas-1992-police-report-never-says-paranormal/index.html",
-  "sha256": "f06001d736e35144b280cfd0d9407231a6f5cd3e341e3608f260b0d34992c181",
+  "sha256": "ec4ff81b380ae2a99d959e7bec53fed0692f0af5a10d26600d6f94b618a5cbd4",
   "tipo": "text/html"
  },
  "/varginha-1996-brazil-ufo-incident/": {
   "code": 200,
   "fichero": "varginha-1996-brazil-ufo-incident/index.html",
-  "sha256": "37b65a488d669aa95989b17a63fc8b61ecb4d99d5b7619080abcfb7f9f44f508",
+  "sha256": "2b5031130c20b19c87e29c48deaddb8a0ba527f9d2feb1e404edbcba426691c8",
   "tipo": "text/html"
  },
  "/vatican-extraterrestrials-catholic-church-position/": {
   "code": 200,
   "fichero": "vatican-extraterrestrials-catholic-church-position/index.html",
-  "sha256": "6b474c98b493c5e74a97436b8ff89dd10b761c058585978e3cb30ec61041961f",
+  "sha256": "00bbbd18f821a861dbed573a2076039371932fbce51e13a2dc5b665370253853",
   "tipo": "text/html"
  },
  "/vilas-boas-1957-abduction-before-the-hills/": {
   "code": 200,
   "fichero": "vilas-boas-1957-abduction-before-the-hills/index.html",
-  "sha256": "8bd04c5df536cef490c5073a2221b0f15fb060827069857a586204b31236e7b1",
+  "sha256": "2c8bedb52d6b2aab29231e615f8480b6fec39c1b3e20107a0b61931decc0b593",
   "tipo": "text/html"
  },
  "/yellow-sea-star-pr104-forensic-analysis-six-pointed-uap/": {
   "code": 200,
   "fichero": "yellow-sea-star-pr104-forensic-analysis-six-pointed-uap/index.html",
-  "sha256": "b25c538de6d600459a4e4ea6b07f0032252bcfdf53b037cefcc0d09b1c899c21",
+  "sha256": "366219e22e65235fa098431d052f9618b1b54587141782fa2b6be0471cf6e0ed",
   "tipo": "text/html"
  }
 }
