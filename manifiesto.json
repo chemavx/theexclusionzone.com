@@ -1259,6 +1259,12 @@
   "sha256": "16d11a2588d7590849171c438373a3612c050c917d5a1db1456ff22a4117f27e",
   "tipo": "image/webp"
  },
+ "/content/images/size/w1200/2026/10/en-roswell-78-years-unanswered-questions-infografia.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w1200/2026/10/en-roswell-78-years-unanswered-questions-infografia.webp",
+  "sha256": "f8bfe686f6a20f6ab3780257601582720165e9d757f410ebaec29f0a04802ed9",
+  "tipo": "image/webp"
+ },
  "/content/images/size/w1200/2026/10/en-utah-ranch-2010-baass-dia-report-pursue-release-7-infografia.webp": {
   "code": 200,
   "fichero": "content/images/size/w1200/2026/10/en-utah-ranch-2010-baass-dia-report-pursue-release-7-infografia.webp",
@@ -2830,7 +2836,7 @@
  "/roswell-78-years-unanswered-questions/": {
   "code": 200,
   "fichero": "roswell-78-years-unanswered-questions/index.html",
-  "sha256": "466f24b6a703a515292765d97bf2926db1740070b187e7f1164828b286670605",
+  "sha256": "b4dda87243e0174812bcf29f6340a36e8ef8cf8c01436c79c85e9be24d6aafb1",
   "tipo": "text/html"
  },
  "/rss/": {
